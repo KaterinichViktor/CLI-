@@ -1,4 +1,3 @@
-// index.js
 const yargs = require('yargs');
 const { hideBin } = require('yargs/helpers');
 const { listContacts, getContactById, addContact, removeContact } = require('./contacts');
